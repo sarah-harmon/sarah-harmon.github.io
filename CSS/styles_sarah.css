@@ -1,0 +1,103 @@
+* {
+  color: black
+  ;
+}
+
+* {outline:1px dashed green;
+}
+
+a {color:blue;
+}
+nav {
+  float:center;
+  text-align: center;
+  font-family: sans-serif;
+  font: helvetica;
+  font-size: 16px;
+}
+
+a:link {
+  color: #81d8d0;
+  text-decoration: none;
+  text
+}
+
+a:visited {
+    text-decoration: none;
+    color: #81d8d0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #81d8d0;
+}
+
+.navlist {
+  list-style: none;
+}
+
+.navlist > li {
+  display: inline;
+  margin-right: 10px
+}
+
+.image {
+    height: 400px;
+    width: 600px;
+    padding: 5px;
+    border: 0px;
+    margin: 0;
+    object-fit: cover;
+    object-position: right;
+}
+
+.image2 {
+    height: 400px;
+    width: 400px;
+    padding: 5px;
+    border: 0px;
+    margin: 0;
+    object-fit: cover;
+    object-position: right;
+}
+
+.head {
+  text-align:center
+}
+
+h2 {
+  margin-bottom: 0;
+  padding: 40px;
+  font-family: sans-serif;
+  font: helvetica;
+  color: white;
+  font-weight: lighter;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 44px;
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-family: sans-serif;
+  font: helvetica;
+  font-weight: lighter;
+  font-size:14px
+}
+
+h4 {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.blue {
+  background-color: #81d8d0
+}

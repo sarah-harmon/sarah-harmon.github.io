@@ -1,0 +1,53 @@
+* {
+  outline: 1px dashed green;
+
+}
+
+a {
+  color: yellow;
+
+
+
+}
+
+
+img {
+    height: 400px;
+    width: 400px;
+    padding: 35px;
+    align-items: center;
+    
+
+  }
+
+  h1 {
+      font-size: 60;
+      background-color: maroon;
+      color: orange;
+      text-align: center;
+
+  }
+
+h2 {
+    text-align: center;
+
+}
+
+nav {
+    float: left;
+    height: 100%;
+    padding-right: 25px;
+    background-color: maroon ;
+    color: yellow;
+
+  }
+
+body {
+    height: 100%;
+
+}
+
+footer {
+    clear: both;
+
+}
